@@ -1,0 +1,64 @@
+{
+  "contacts": [
+    {
+      "name": "Marilyn Manson",
+      "number": "123456",
+      "id": "id-1"
+    },
+    {
+      "name": "Britney Spears",
+      "number": "987654",
+      "id": "id-2"
+    },
+    {
+      "name": "Michael Jackson",
+      "number": "789654",
+      "id": "id-3"
+    },
+    {
+      "name": "Katty Perry",
+      "number": "145963",
+      "id": "id-4"
+    },
+    {
+      "name": "James Hetfield",
+      "number": "658712",
+      "id": "id-5"
+    },
+    {
+      "name": "Kate",
+      "number": "123456",
+      "id": "NRQe9D9"
+    },
+    {
+      "name": "David",
+      "number": "543772",
+      "id": "I1k29Rw"
+    },
+    {
+      "name": "Karl",
+      "number": "278300",
+      "id": "Xfmqo_E"
+    },
+    {
+      "name": "Alex",
+      "number": "562382",
+      "id": "hF55GY3"
+    },
+    {
+      "name": "Mark Roofalo",
+      "number": "488290",
+      "id": "OhzW8OI"
+    },
+    {
+      "name": "Robert Downey Jr",
+      "number": "662990",
+      "id": "FjWqzuJ"
+    },
+    {
+      "name": "Thor",
+      "number": "884003",
+      "id": "psKzy-1"
+    }
+  ]
+}
