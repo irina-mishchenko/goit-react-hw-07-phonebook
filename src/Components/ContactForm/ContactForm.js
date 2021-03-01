@@ -9,12 +9,13 @@ export default function ContactForm() {
   const [name, setName] = useState('');
   const [number, setNumber] = useState('');
 
+  const dispatch = useDispatch();
+
   useEffect(() => {
-    fetchContacts();
+    dispatch(fetchContacts());
   }, []);
 
   const contacts = useSelector(getContacts);
-  const dispatch = useDispatch();
 
   const handleChange = event => {
     switch (event.target.name) {
